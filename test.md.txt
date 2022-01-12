@@ -3,3 +3,4 @@
 #etc
 
 #Doing changing
+Git.another push after opening another folder
